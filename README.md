@@ -1,3 +1,5 @@
-### Hello 💜
-<p>I'm junior front-end developer, started my journey on 2019 when I was treinee lerning how working in the tecnology and basic skills like developing landing pages. Before that I started Laboratória BootCamp becaming a true Front-end Developer!</p>
-<p>I worked on some companies building and fixing web apps with JavaScript, Typescript, Angular, CSS, HTML, Angular. Today I am focused on boosting my front-end skills, learning Unity Engine and C# language.</p>
+### Olá!💜
+<p>Sou Desenvolvedora Front-end, atualmente estou estudando C#, Unity Engine e aprimorando Habilidades & Ferramentas de Front-end.</p>
+
+<p>Iniciei a carreira em tecnologia em 2019, em transição de carreira participei do BootCamp Laboratória Brasil - Desenvolvimento Front-end, o qual foi imprescindível para impulsionar meus estudos e entrada no mercado de trabalho. Atuei em duas empresas uma do setor Bancário/Investimentos e outra de Software como Desenvolvedora.</p>
+
