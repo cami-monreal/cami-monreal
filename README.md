@@ -1,4 +1,4 @@
 ### Olá!💜
-<p>Sou Desenvolvedora Front-end, atualmente aprendendo C# e Unity, e aprimorando conhecimentos de habilidades, paradigmas, frameworks e ferramentas para Front-end.</p>
+<p>Sou Desenvolvedora Front-end, atualmente aprendendo C# e Unity, e aprimorando conhecimentos Front-end.</p>
 <p>Iniciei a carreira em tecnologia em 2019, em transição de carreira participei do BootCamp Laboratória Brasil - Desenvolvimento Front-end, o qual foi imprescindível para impulsionar a  minha entrada no mercado de trabalho Dev. Atuei em duas empresas uma do setor Bancário/Investimentos e outra de Software como Desenvolvedora.</p>
 
